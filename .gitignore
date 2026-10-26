@@ -1,0 +1,8 @@
+*.asv
+*.autosave
+*.mex*
+slprj/
+data/*
+!data/README.md
+results/*
+!results/.gitkeep
